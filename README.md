@@ -8,8 +8,8 @@ The backend application
 
 # Running with Docker
 1. Turn on Docker Desktop 
-2. Build the Docker Container `docker build -t financial_data_api .`
-3. RUn the Docker Contianer `docker run -d -p 8000:8000 financial_data_api`
+2. Build the Docker Container `docker build -t fti_consulting_sample_data_api .`
+3. RUn the Docker Contianer `docker run -d -p 8000:8000 fti_consulting_sample_data_api`
 
 # Extra Information
 1. This only works for IBM as it's a demo API
